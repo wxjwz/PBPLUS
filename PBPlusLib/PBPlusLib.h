@@ -1,3 +1,10 @@
+/*
+* PBPlusLib.h
+*
+*  Created on: 2015.05.23
+*      Author: wxj
+*		EMAIL: wxj_wz@qq.com
+*/
 #pragma once
 //#define NAMESPACE namespace
 //#define APP_NAMSPACE WXJ_LIB

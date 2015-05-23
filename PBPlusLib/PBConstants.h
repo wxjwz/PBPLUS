@@ -1,3 +1,10 @@
+/*
+* PBConstants.h
+*
+*  Created on: 2015.05.23
+*      Author: wxj
+*		EMAIL: wxj_wz@qq.com
+*/
 #pragma once
 BEGIN_PBPLUS_NASPACE
 //像素、PB单位的转换方式

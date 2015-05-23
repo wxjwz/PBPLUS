@@ -1,3 +1,10 @@
+/*
+* PBSystem.h
+*
+*  Created on: 2015.05.23
+*      Author: wxj
+*		EMAIL: wxj_wz@qq.com
+*/
 #pragma once
 #include "pbext.h"
 //#include "PBObject.h"
